@@ -17,7 +17,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            Get started by editing, pusblished off, will deploy>?&nbsp;
+            Get started by editing, pusblished off, will deploy?
             <code className={styles.code}>src/pages/index.tsx</code>
           </p>
           <div>
